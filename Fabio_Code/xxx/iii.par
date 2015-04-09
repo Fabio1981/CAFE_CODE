@@ -1,0 +1,16 @@
+&ads_Input
+res_num		= 1
+nvars           = 4
+xmin 		= 0.0
+xmax 		= 1.5   !1.57079632679
+Nxx 		= 1000
+Ntt 		= 10000
+courant 	= 0.2   
+amplitude 	= 3.0
+sigma 		= 0.0625     
+x0 		= 0.5
+every_0Dt 	= 1  
+every_1Dt 	= 10
+diss_coef       = 0.08
+/
+
